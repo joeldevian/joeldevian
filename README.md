@@ -1,16 +1,15 @@
-## Hi there 👋
+<div align="center">
+    <h1 align="center">Hola, soy Joel Ircañaupa 👋</h1>
+</div>
+<img src="https://i.postimg.cc/DyjPkML8/joel-irca.png" alt="portadaJoel">
 
-<!--
-**joeldevian/joeldevian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+## Sobre mí
+- ⭐ Apasionado por el desarrollo web
+- 🌐 Full Stack Developer
+- 🎨 Diseñador UI/UX aficionado
+- 📚 Actualmente aprendiendo nuevas tecnologías
+- 🎯 Comprometido con la calidad y la eficiencia en cada proyecto
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Proyectos Destacados
