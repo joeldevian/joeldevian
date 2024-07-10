@@ -1,6 +1,6 @@
 <div align="center">
     <div id="header" align="center">
-  <img src="https://media.giphy.com/media/6hUuvhV3bgnFC/giphy.gif" width="80"/>
+  <img src="https://media.giphy.com/media/6hUuvhV3bgnFC/giphy.gif" width="50"/>
 </div> <h1 align="center">Hola, soy Joel Ircañaupa 👋</h1>
 </div>
 <img src="https://i.postimg.cc/DyjPkML8/joel-irca.png" alt="portadaJoel">
