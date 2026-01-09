@@ -3,16 +3,16 @@
   <h1 align="">Hola, soy Joel Ircañaupa 👋</h1>
 </div> 
 
-<img src="https://i.postimg.cc/DyjPkML8/joel-irca.png" alt="portadaJoel">
+<img src="https://i.postimg.cc/HnyynPDR/Portada-para-git.png" alt="portadaJoel">
 
 <br>
 
 ## Sobre mí
-- ⭐ Apasionado por el desarrollo web
-- 🌐 Full Stack Developer
-- 🎨 Diseñador UI/UX aficionado
-- 📚 Actualmente aprendiendo nuevas tecnologías
-- 🎯 Comprometido con la calidad y la eficiencia en cada proyecto
+- 🤖 AI Engineer con enfoque AI-first
+- 📊 Experiencia en pipelines de datos y análisis de información
+- 🧠 Desarrollo de sistemas inteligentes basados en datos
+- 🛠️ Integración de IA con APIs y bases de datos
+- 🚀 Enfoque en soluciones escalables y prácticas
 
 ## Tecnologias 💻
 
