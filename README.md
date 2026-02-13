@@ -3,11 +3,6 @@
   <h1 align="">Hola, soy Joel Ircañaupa 👋</h1>
 </div> 
 
-<br>
-
-## Sobre el repositorio  
-<p>Proyectos personales </p>
-
 ## Tecnologias 💻
 
 <p align="left">
@@ -58,5 +53,3 @@
 </a>
 
 </p>
-
-## Proyectos Destacados
