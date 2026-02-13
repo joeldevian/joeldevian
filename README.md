@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/6hUuvhV3bgnFC/giphy.gif" width="50"/>
+  <img src="https://media.giphy.com/media/6hUuvhV3bgnFC/giphy.gif" width="80"/>
   <h1 align="">Hola, soy Joel Ircañaupa 👋</h1>
 </div> 
 
