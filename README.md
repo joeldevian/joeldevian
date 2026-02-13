@@ -1,18 +1,9 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/6hUuvhV3bgnFC/giphy.gif" width="30"/>
+  <img src="https://media.giphy.com/media/6hUuvhV3bgnFC/giphy.gif" width="50"/>
   <h1 align="">Hola, soy Joel Ircañaupa 👋</h1>
 </div> 
 
-<img src="https://i.postimg.cc/HnyynPDR/Portada-para-git.png" alt="portadaJoel">
-
 <br>
-
-## Sobre mí
-- 🤖 AI Engineer con enfoque AI-first
-- 📊 Experiencia en pipelines de datos y análisis de información
-- 🧠 Desarrollo de sistemas inteligentes basados en datos
-- 🛠️ Integración de IA con APIs y bases de datos
-- 🚀 Enfoque en soluciones escalables y prácticas
 
 ## Tecnologias 💻
 
