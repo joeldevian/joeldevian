@@ -4,7 +4,7 @@
   <p><strong>Desarrollador Web Full Stack</strong> · React · TypeScript · Node.js · Supabase</p>
 </div>
 
-<img src="https://i.postimg.cc/pdMxZMh0/Portada-Git-Hub.png" alt="portada Joel" width="100%"/>
+<img src="https://i.postimg.cc/PxXkMpnS/Portada-Facebook.png" alt="portada Joel" width="100%"/>
 
 <br/>
 
