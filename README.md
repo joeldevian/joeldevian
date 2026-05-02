@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="80"/>
+  <img src="https://media.giphy.com/media/6hUuvhV3bgnFC/giphy.gif" width="30"/>
   <h1>Hola, soy Joel Ircañaupa 👋</h1>
   <p><strong>Desarrollador Web Full Stack</strong> · React · TypeScript · Node.js · Supabase</p>
 </div>
